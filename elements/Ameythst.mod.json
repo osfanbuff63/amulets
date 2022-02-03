@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "ameythst_amulet",
+    "customModelName": "Normal",
+    "name": "Ameythst Amulet",
+    "rarity": "UNCOMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Amulets"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 32,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "AmeythstRightClickedInAir"
+    },
+    "onItemInUseTick": {
+      "name": "AmeythstItemInHandTick"
+    },
+    "hasDispenseBehavior": false
+  }
+}
