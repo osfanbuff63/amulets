@@ -1,4 +1,7 @@
 {
+  "item.amulets.ameythst_ore_dust": "Ameythst Ore",
   "itemGroup.tabamulets": "Amulets",
-  "item.amulets.ameythst": "Ameythst Amulet"
+  "item.amulets.ameythst": "Ameythst Amulet",
+  "block.amulets.ameythst_ore_block": "Block of Ameythst",
+  "block.amulets.ameythst_ore_ore": "Ameythst Ore"
 }

@@ -1,0 +1,30 @@
+{
+  "group": "amulets",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "minecraft:stone"
+    },
+    "4": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "5": {
+      "item": "minecraft:stone"
+    },
+    "7": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "amulets:ameythst",
+    "count": 1
+  }
+}

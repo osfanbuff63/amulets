@@ -56,14 +56,81 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ameythst"
+    },
+    {
+      "name": "AmeythstAmuletRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_amulet_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Ameythst_OreDust",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_ore_dust"
+    },
+    {
+      "name": "Ameythst_OreOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_ore_ore"
+    },
+    {
+      "name": "Ameythst_OreBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_ore_block"
+    },
+    {
+      "name": "Ameythst_OreOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_ore_ore_block_recipe"
+    },
+    {
+      "name": "Ameythst_OreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_ore_block_ore_recipe"
+    },
+    {
+      "name": "Ameythst_OreOreSmelting",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ameythst_ore_ore_smelting"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.amulets.ameythst_ore_dust": "Ameythst Ore",
       "itemGroup.tabamulets": "Amulets",
-      "item.amulets.ameythst": "Ameythst Amulet"
+      "item.amulets.ameythst": "Ameythst Amulet",
+      "block.amulets.ameythst_ore_block": "Block of Ameythst",
+      "block.amulets.ameythst_ore_ore": "Ameythst Ore"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "amulets:ameythst_ore_block"
+    }
+  ],
+  "result": {
+    "item": "amulets:ameythst_ore_dust",
+    "count": 9
+  }
+}

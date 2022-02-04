@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "1": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "2": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "3": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "4": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "5": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "6": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "7": {
+      "item": "amulets:ameythst_ore_dust"
+    },
+    "8": {
+      "item": "amulets:ameythst_ore_dust"
+    }
+  },
+  "result": {
+    "item": "amulets:ameythst_ore_block",
+    "count": 1
+  }
+}

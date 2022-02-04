@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "amulets:items/ameythst_ore_dust"
+  }
+}

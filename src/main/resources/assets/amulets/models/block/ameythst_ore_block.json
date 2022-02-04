@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "amulets:blocks/ameythst_ore_ore_block",
+    "particle": "amulets:blocks/ameythst_ore_ore_block"
+  }
+}

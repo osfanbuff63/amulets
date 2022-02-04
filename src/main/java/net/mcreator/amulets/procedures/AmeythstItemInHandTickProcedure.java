@@ -10,6 +10,6 @@ public class AmeythstItemInHandTickProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity)
-			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 20, 2, (true), (true)));
+			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 20, 0, (true), (true)));
 	}
 }

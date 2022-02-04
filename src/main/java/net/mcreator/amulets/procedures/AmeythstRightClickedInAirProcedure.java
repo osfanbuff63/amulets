@@ -13,7 +13,7 @@ public class AmeythstRightClickedInAirProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity)
-			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 100, 5, (false), (false)));
+			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 100, 4, (false), (false)));
 		{
 			ItemStack _ist = itemstack;
 			if (_ist.hurt(1, new Random(), null)) {
