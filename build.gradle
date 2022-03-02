@@ -62,8 +62,8 @@ publishing {
       name = "GitHubPackages"
       url = "https://maven.pkg.github.com/osfanbuff63/amulets"
       credentials {
-        username = System.getenv("osfanbuff63")
-        password = System.getenv("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")
+        username = System.getenv("GITHUB_ACTOR")
+        password = System.getenv("GITHUB_TOKEN")
       }
     }
   }
