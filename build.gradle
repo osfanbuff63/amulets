@@ -57,6 +57,7 @@ dependencies {
 apply from: 'mcreator.gradle'
 
 publishing {
+  
   repositories {
     maven {
       name = "GitHubPackages"
