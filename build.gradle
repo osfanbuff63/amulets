@@ -10,7 +10,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = '1.0'
+version = '0.1-alpha1'
 group = 'io.github.osfanbuff63.amulets'
 archivesBaseName = 'modid'
 
