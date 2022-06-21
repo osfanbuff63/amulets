@@ -11,7 +11,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
 version = '1.0'
-group = 'com.yourname.modid'
+group = 'io.github.osfanbuff63.amulets'
 archivesBaseName = 'modid'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(16)
@@ -54,8 +54,6 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.17.1-37.1.1'
 }
 
-apply from: 'mcreator.gradle'
-
 plugins {
     id("maven-publish")
 }
@@ -75,3 +73,5 @@ publishing {
             from(components.java)
         }
     }
+    
+apply from: 'mcreator.gradle'
